@@ -1,6 +1,6 @@
 # Comparative Study of the Quantum Communication Protocol in Noisy Environment.
 
-ABSTRACT
+# ABSTRACT: 
 Communication at present is rooted deeply in the concept of bits of zeros and
 ones which originated from Shannon’s Theory of Information. Everything in today’s
 digital world from advanced notebooks, to mobile phones, tablets, smartwatches,
@@ -26,5 +26,6 @@ achieving long-distance communication. The dissertation focuses on the comparati
 study of Quantum Communication Protocols in a noisy environment and concludes
 with the robustness of protocols concerning different classes of noise.
 
-Keywords: Quantum Communication, Quantum Entanglement, Quantum Su-
+# Keywords: 
+Quantum Communication, Quantum Entanglement, Quantum Su-
 perposition, Decoherence, Dephasing, Quantum Teleportation
