@@ -1,6 +1,7 @@
-# Comparative Study of the Quantum Key Distribution Protocol in Noisy Environment.
+# Comparative Study of the Quantum Communication Protocol in Noisy Environment
 
 # ABSTRACT: 
+
 Communication at present is rooted deeply in the concept of bits of zeros and
 ones which originated from Shannon’s Theory of Information. Everything in today’s
 digital world from advanced notebooks, to mobile phones, tablets, smartwatches,
