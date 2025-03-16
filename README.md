@@ -1,4 +1,4 @@
-# Comparative Study of the Quantum Communication Protocol in Noisy Environment.
+# Comparative Study of the Quantum Key Distribution Protocol in Noisy Environment.
 
 # ABSTRACT: 
 Communication at present is rooted deeply in the concept of bits of zeros and
